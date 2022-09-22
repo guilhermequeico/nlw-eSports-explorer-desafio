@@ -1,0 +1,13 @@
+.profile-photo {
+    width: 12rem;
+    height: 12rem;
+    margin: 0 auto;
+    padding: .4rem;
+    border-radius: 50%;
+    background-image: linear-gradient(90deg, #C91842 0%, #5CC2E2 100%);    
+}
+
+.photo {
+    width: 100%;
+    border-radius: 50%;
+}
