@@ -16,6 +16,11 @@ html {
 
 body {
     min-height: 100vh;
-    font-family: 'Montserrat', sans-serif;
+    padding: 3.2rem 0 6.4rem;
+    background-image: url(../img/background.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
     background-color: var(--black-100);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6rem;
 }
