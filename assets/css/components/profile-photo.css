@@ -5,9 +5,14 @@
     padding: .4rem;
     border-radius: 50%;
     background-image: linear-gradient(90deg, #C91842 0%, #5CC2E2 100%);    
+    transition: transform ease-out .3s;
 }
 
 .photo {
     width: 100%;
     border-radius: 50%;
+}
+
+.profile-photo:hover {
+    transform: scale(1.1);
 }
